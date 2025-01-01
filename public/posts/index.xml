@@ -10,23 +10,12 @@
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blogtitle</title>
-      <link>/posts/notes/</link>
+      <link>/posts/networkchuck-strikes-again/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/notes/</guid>
-      <description>&lt;p&gt;Hallo!
-&lt;strong&gt;Paginanr.&lt;/strong&gt;
-&lt;em&gt;&amp;ldquo;Book quote&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Eigen interpretatie&lt;/p&gt;
-&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Notitie</title>
-      <link>/posts/geweldig/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/geweldig/</guid>
-      <description>&lt;h1 id=&#34;note&#34;&gt;Note&lt;/h1&gt;
-&lt;p&gt;Wow, wat is dit eigenlijk vet.&lt;/p&gt;
-&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;</description>
+      <guid>/posts/networkchuck-strikes-again/</guid>
+      <description>&lt;p&gt;Vandaag heb ik, met behulp van de geweldige YouTuber NetworkChuck, een eigen blog opgezet op basis van obsidian.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&amp;amp;ab_channel=NetworkChuck&#34;&gt;https://www.youtube.com/watch?v=dnE7c0ELEH8&amp;amp;ab_channel=NetworkChuck&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
