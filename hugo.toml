@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
 [params.assets]
-  disableFingerprintng = true
+  disableFingerprinting = true
 
 [menu]
 
