@@ -9,6 +9,27 @@
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Books</title>
+      <link>/tags/books/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gas</title>
+      <link>/tags/gas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/gas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Klimaat</title>
+      <link>/tags/klimaat/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/klimaat/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Notetaking</title>
       <link>/tags/notetaking/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -20,6 +41,13 @@
       <link>/tags/obsidian/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olie</title>
+      <link>/tags/olie/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/olie/</guid>
       <description></description>
     </item>
     <item>
