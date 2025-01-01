@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>Posts on Florijns Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Florijns Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blogtitle</title>
-      <link>//localhost:1313/posts/notes/</link>
+      <link>/posts/notes/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/notes/</guid>
+      <guid>/posts/notes/</guid>
       <description>&lt;p&gt;Hallo!
 &lt;strong&gt;Paginanr.&lt;/strong&gt;
 &lt;em&gt;&amp;ldquo;Book quote&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
