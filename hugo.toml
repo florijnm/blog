@@ -8,6 +8,9 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
+[params.assets]
+  disableFingerprintng = true
+
 [menu]
 
   [[menu.main]]
