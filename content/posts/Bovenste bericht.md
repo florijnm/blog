@@ -3,10 +3,7 @@ title: Sapere Aude!
 ShowReadingTime: false
 weight: 1
 ---
+Welkom op mijn blog.
 
-{{< youtube 2xkNJL4gJ9E >}}
-
-
-```
-System.out.println("Hallo");
-```
+Deze pagina's zijn bedoeld als een soort 'tweede brein'.
+Hierin kunnen voornamelijk notities gevonden worden. Ook samenvatting van boeken die ik heb gelezen, in combinatie met mijn notities en gedachten hierbij.
