@@ -11,6 +11,7 @@ math = true
 
 [params]
   ShowReadingTime = true
+  comments = true
 [params.assets]
   disableFingerprinting = true
 
