@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 math = true
 [permalinks]
-  posts = "blog/:title"
+  posts = "blog/posts/:title"
 
 [params]
   ShowReadingTime = true
