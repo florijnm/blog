@@ -11,7 +11,7 @@ math = true
 
 [params]
   ShowReadingTime = true
-  comments = true
+  ShowBreadCrumbs = true
 [params.assets]
   disableFingerprinting = true
 
@@ -39,7 +39,3 @@ math = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-  [services]
-    [services.disqus]
-      shortname = "florijnmunster"
