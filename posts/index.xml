@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Florijns Blog</title>
-    <link>/posts/</link>
+    <link>https://florijnm.github.io/blog/posts/</link>
     <description>Recent content in Posts on Florijns Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://florijnm.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sapere Aude!</title>
-      <link>/posts/bovenste-bericht/</link>
+      <link>https://florijnm.github.io/blog/posts/bovenste-bericht/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/bovenste-bericht/</guid>
+      <guid>https://florijnm.github.io/blog/posts/bovenste-bericht/</guid>
       <description>&lt;p&gt;Welkom op mijn blog.&lt;/p&gt;
 &lt;p&gt;Deze pagina&amp;rsquo;s zijn bedoeld als een soort &amp;rsquo;tweede brein&amp;rsquo;.
 Hierin kunnen voornamelijk notities gevonden worden. Ook samenvatting van boeken die ik heb gelezen, in combinatie met mijn notities en gedachten hierbij.&lt;/p&gt;</description>
     </item>
     <item>
       <title>De Strijd Om Energie</title>
-      <link>/posts/de-strijd-om-energie-notities/</link>
+      <link>https://florijnm.github.io/blog/posts/de-strijd-om-energie-notities/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/de-strijd-om-energie-notities/</guid>
+      <guid>https://florijnm.github.io/blog/posts/de-strijd-om-energie-notities/</guid>
       <description>&lt;h1 id=&#34;notities&#34;&gt;Notities&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;15&lt;/strong&gt;
 &lt;em&gt;&amp;ldquo;Van die ruwe olie wordt benzine en kerosine gemaakt, zodat we naar het werk of de supermarkt kunnen rijden, of naar ons vakantieadres kunnen vliegen. Maar olie is niet alleen een brandstof, het is ook een grondstof voor de chemische industrie. Oliemoleculen worden daar gekraakt en gekneed tot grondstoffen en halffabricaten voor talloze producten: van plastics tot medicijnen, van kunstmest tot kleding, van wasmiddelen tot voedingsadditieven. Bijna alle objecten die een mens dagelijks gebruikt bevatten fossielen grondstoffen.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
