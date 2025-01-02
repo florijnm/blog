@@ -1,6 +1,6 @@
 theme = "papermod"
-relativeURLs = true
-baseURL = "/"
+relativeURLs = false
+baseURL = "https://florijnm.github.io/blog"
 title = "Florijns Blog"
 author = "Florijn Munster"
 paginate = 4

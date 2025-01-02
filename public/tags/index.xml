@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Florijns Blog</title>
-    <link>/tags/</link>
+    <link>https://florijnm.github.io/blog/tags/</link>
     <description>Recent content in Tags on Florijns Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://florijnm.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>/tags/books/</link>
+      <link>https://florijnm.github.io/blog/tags/books/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/books/</guid>
+      <guid>https://florijnm.github.io/blog/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Gas</title>
-      <link>/tags/gas/</link>
+      <link>https://florijnm.github.io/blog/tags/gas/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/gas/</guid>
+      <guid>https://florijnm.github.io/blog/tags/gas/</guid>
       <description></description>
     </item>
     <item>
       <title>Klimaat</title>
-      <link>/tags/klimaat/</link>
+      <link>https://florijnm.github.io/blog/tags/klimaat/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/klimaat/</guid>
+      <guid>https://florijnm.github.io/blog/tags/klimaat/</guid>
       <description></description>
     </item>
     <item>
       <title>Olie</title>
-      <link>/tags/olie/</link>
+      <link>https://florijnm.github.io/blog/tags/olie/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/olie/</guid>
+      <guid>https://florijnm.github.io/blog/tags/olie/</guid>
       <description></description>
     </item>
   </channel>
