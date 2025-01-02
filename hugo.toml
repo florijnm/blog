@@ -8,6 +8,8 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 math = true
+[permalinks]
+  posts = "blog/:title"
 
 [params]
   ShowReadingTime = true
