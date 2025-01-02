@@ -8,8 +8,6 @@ tags:
   - Gas
 ---
 
-14-05-2024 20:46
-Tags: 
 
 # Notities
 **15**
@@ -90,6 +88,4 @@ De auteur schetst een situatie waarin waterstof via een chemisch proces vervoerd
 
 
 # References
-14-05-2024 01:24
-Status:
-Tags:
+
