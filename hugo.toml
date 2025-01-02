@@ -12,6 +12,7 @@ math = true
 [params]
   ShowReadingTime = true
   ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
 [params.assets]
   disableFingerprinting = true
 
