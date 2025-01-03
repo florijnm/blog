@@ -1,5 +1,5 @@
 ---
-title: De Strijd Om Energie
+title: De Strijd Om Energie, Kopie!
 date: 2025-01-01
 tags:
   - books
