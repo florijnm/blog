@@ -6,9 +6,7 @@ tags:
   - Stocks
   - PayPal
   - Thiel
-aliases:
-  - "Zero to One: Notes on startups"
-  - or how to build the future
+aliases: []
 subtitle: Notes on Start Ups, or How to Build the Future
 author: Blake Masters, Peter Thiel
 category: Business & Economics
