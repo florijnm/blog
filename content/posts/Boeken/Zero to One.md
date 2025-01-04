@@ -1,14 +1,14 @@
 ---
 title: Zero to One
-date: 2025-01-02
+date: 2025-01-04
 tags:
   - books
   - Stocks
   - PayPal
   - Thiel
-aliases: []
+aliases: 
 subtitle: Notes on Start Ups, or How to Build the Future
-author: Blake Masters, Peter Thiel
+bookauthors: Peter Thiel
 category: Business & Economics
 publisher: Random House
 publishDate: 2014-09-18
