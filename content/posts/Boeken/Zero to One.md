@@ -11,7 +11,6 @@ subtitle: Notes on Start Ups, or How to Build the Future
 bookauthors: Peter Thiel
 category: Business & Economics
 publisher: Random House
-publishDate: 2014-09-18
 totalPage: 198
 coverUrl: http://books.google.com/books/content?id=M22fAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=M22fAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
