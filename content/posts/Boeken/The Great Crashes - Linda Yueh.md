@@ -5,6 +5,11 @@ tags:
   - books
   - Economie
   - Stocks
+  - Crashes
+  - Markets
+  - Inflation
+  - Deflation
+  - Currency
 category: Business & Economics
 categories: Business & Economics
 publisher: Penguin UK
@@ -18,8 +23,13 @@ isbn13: 9780241988091
 isbn10: 241988098
 date: 2025-01-21
 ---
-### Notities
-****
+
+## Introductie
+In dit boek worden meerdere crashes toegelicht, zoals die van 2008 en de Covid-crash van 2020. Kenmerken van crashes worden geanalyseerd en gepresenteerd.
+
+## Korte samenvatting
+n.v.t
+## Notities
 **1**
 > Each of the ten crashes that follow has a unique set of causes and consequences but, despite their differences, they all feature three distinct fases: *euphoria*, *credibility* and *aftermath*. Euphoria or exuberance, often used interchangeably, leads people to invest in markets they believe will rise and rise. To resolve a financial crisis, credible policies are essential. These two aspects can shape the aftermath: the difference between a quick recovery or a long, protracted recession. 
 
