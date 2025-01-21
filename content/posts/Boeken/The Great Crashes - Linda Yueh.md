@@ -16,6 +16,7 @@ link: https://play.google.com/store/books/details?id=N51SEAAAQBAJ
 previewLink: http://books.google.nl/books?id=N51SEAAAQBAJ&pg=PT4&dq=The+Great+Crashes&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn13: 9780241988091
 isbn10: 241988098
+date: 2025-01-21
 ---
 ### Notities
 ****
