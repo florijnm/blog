@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://florijnm.github.io/blog/posts/bovenste-bericht/</loc>
+    <loc>https://florijnm.github.io/blog/posts/posts/bovenste-bericht/</loc>
   </url><url>
     <loc>https://florijnm.github.io/blog/tags/books/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/buffett/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/munger/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/stocks/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/boeken/the-university-of-berkshire-hathaway/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florijnm.github.io/blog/categories/business--economics/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
@@ -25,25 +46,13 @@
     <loc>https://florijnm.github.io/blog/tags/economie/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florijnm.github.io/blog/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://florijnm.github.io/blog/tags/inflation/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florijnm.github.io/blog/tags/markets/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florijnm.github.io/blog/posts/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://florijnm.github.io/blog/tags/stocks/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://florijnm.github.io/blog/tags/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://florijnm.github.io/blog/posts/boeken/the-great-crashes---linda-yueh/</loc>
+    <loc>https://florijnm.github.io/blog/posts/posts/boeken/the-great-crashes---linda-yueh/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florijnm.github.io/blog/tags/paypal/</loc>
@@ -52,10 +61,16 @@
     <loc>https://florijnm.github.io/blog/tags/thiel/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florijnm.github.io/blog/posts/boeken/zero-to-one/</loc>
+    <loc>https://florijnm.github.io/blog/posts/posts/boeken/zero-to-one/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florijnm.github.io/blog/posts/boeken/de-strijd-om-energie/</loc>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/boeken/zero-to-one-notes-on-startups-or-how-to-build-the-future/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/boeken/de-strijd-om-energie/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/posts/boeken/de-strijd-om-energie/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florijnm.github.io/blog/tags/gas/</loc>
@@ -67,10 +82,166 @@
     <loc>https://florijnm.github.io/blog/tags/olie/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florijnm.github.io/blog/posts/boeken/boeken/</loc>
+    <loc>https://florijnm.github.io/blog/posts/2---tags/programmeren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/3---templates/ocp-note/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/boeken/boeken/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/compiling-an-running-code-with-packages/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/creating-objects/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/declaring-multiple-variables/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/destroying-objects--garbage-collection/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/hoofdstuk-1-building-blocks/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/identifying-identifiers/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/initializing-variables/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/main-method/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/managing-variable-scope/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/ordering-elements-in-a-class/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/package-declarations-and-imports/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/review-questions/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-1-building-blocks/understanding-data-types/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-2-operators/hoofdstuk-2-operators/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-2-operators/understanding-java-operators/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-3-making-decisions/hoofdstuk-3-making-decisions/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-3-making-decisions/statements-and-blocks/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-3-making-decisions/switch-statements/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/certificaten/ocp-17/hoofdstuk-3-making-decisions/writing-while-loops/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/cursus/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/hoofdstuk-1/hoofdstuk-1/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/hoofdstuk-2/hoofdstuk-2/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/imkeren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/investeren/asr/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/software-engineering/cjib/aquamarijn/aquamarijn-termen/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/software-engineering/cjib/aquamarijn/introductie-team-aquamarijn/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/5---misc/push-notes-to-github-pages/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/tags/trainingen/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/vault/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/%23java/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/%23packagemanagement/</loc>
   </url><url>
     <loc>https://florijnm.github.io/blog/archives/</loc>
   </url><url>
+    <loc>https://florijnm.github.io/blog/tags/bijen/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/bijensteek/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/blocks/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/3---templates/book-template/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/3---templates/full-note/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/boolean/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/byte/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/char/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/compiling/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/datatypes/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/hoofdstuk-1/de-bijensteek/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/hoofdstuk-2/de-honingbij/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/dependencies/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/discussi%C3%ABren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/trainingen/discussi%C3%ABren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/double/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/trainingen/effectief-luisteren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/float/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/garbagecollection/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/imkeren/cursus/hoofdstuk-1/geschiedenis-van-het-bijenhouden/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/honingbij/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/imkeren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/int/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/java/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/long/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/loops/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/luisteren/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/maven/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/software-engineering/cjib/maven/maven-dependencies-laden-niet/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/memory/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/namingconventions/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/objects/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/ocp/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/operators/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/packagemanagement/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/professional-skills/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/scope/</loc>
+  </url><url>
     <loc>https://florijnm.github.io/blog/search/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/statements/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/string/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/switch/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/tertary/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/posts/4---main-notes/boeken/the-great-crashes---linda-yueh1/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/trainingen/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/variables/</loc>
+  </url><url>
+    <loc>https://florijnm.github.io/blog/tags/while/</loc>
   </url>
 </urlset>
