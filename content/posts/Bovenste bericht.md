@@ -1,6 +1,5 @@
 ---
 title: Sapere Aude!
-ShowReadingTime: false
 weight: 1
 ---
 Welkom op mijn blog.
