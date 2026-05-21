@@ -21,6 +21,7 @@ isbn13: 9780753550304
 isbn10: 075355030X
 ---
 ### Introductie
+### Introductie
 Dit boek, geschreven door Peter Thiel, gaat in over zijn denkpatroon en criteria voor het maken van investeringen.
 
 Thiel staat voornamelijk bekend als investeerder. Een van zijn meest bekende investeringen is die van Facebook. Echter heeft Thiel ook bedrijven opgericht, zoals `PayPal` samen met Max Levchin en `Palantir`. 
