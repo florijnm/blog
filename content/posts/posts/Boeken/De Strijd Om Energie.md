@@ -7,7 +7,13 @@ tags:
   - Olie
   - Gas
 ---
-
+[main 2026-05-21T21:56:52.839Z] StorageMainService: creating application shared storage
+[main 2026-05-21T21:56:52.909Z] [shared storage] Creating shared storage database at 'c:\Users\flori\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: true)
+[main 2026-05-21T21:56:52.910Z] [shared storage] Initializing fallback application storage (path: c:\Users\flori\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-05-21T21:56:52.915Z] [shared storage] Fallback application storage initialized with 102 items
+[main 2026-05-21T21:56:52.916Z] update#setState idle
+[main 2026-05-21T21:56:53.483Z] vscode-file: Refused to load resource c:\Users\flori\AppData\Local\Programs\Microsoft VS Code\61b3d0ab13\resources\app\extensions\theme-seti\icons\seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/c:/Users/flori/AppData/Local/Programs/Microsoft%20VS%20Code/61b3d0ab13/resources/app/extensions/theme-seti/icons/seti.woff)
+[main 2026-05-21T21:56:54.065Z] update#killContextMenuComSurrogate: powershell exited with code 0
 
 # Notities
 **15**

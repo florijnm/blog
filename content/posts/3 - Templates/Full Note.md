@@ -1,11 +1,9 @@
 ---
-title: Notitie
+title: blogtitle
 date: 01-01-2025
-tags:
+tags: []
 ---
-
-# Note
-
 
 
 # References
+

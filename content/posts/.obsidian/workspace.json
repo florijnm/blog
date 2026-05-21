@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a0eed7a14e34412c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8d57bd445f8b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c2fab6ab413d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Misc/Push notes to GitHub pages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push notes to GitHub pages"
+            }
+          },
+          {
+            "id": "a877434e765c48a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Misc/Push notes to GitHub pages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push notes to GitHub pages"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "455bfd8b18c30859",
+    "type": "split",
+    "children": [
+      {
+        "id": "63148d21583d201f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66f6aab4933031a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d169969c1c171e57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5cec80e7620353f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21d444c0fbe082e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4148fb482b9bf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177e7cca1306b826",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Misc/Push notes to GitHub pages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Push notes to GitHub pages"
+            }
+          },
+          {
+            "id": "651ba0a3d1789618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Misc/Push notes to GitHub pages.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Push notes to GitHub pages"
+            }
+          },
+          {
+            "id": "67f75d47f8db72d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34858fcedef64aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Misc/Push notes to GitHub pages.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Push notes to GitHub pages"
+            }
+          },
+          {
+            "id": "89cdc27c152b6c06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a877434e765c48a4",
+  "lastOpenFiles": [
+    "posts/Bovenste bericht.md",
+    "posts/Boeken/Zero to One.md",
+    "posts/Boeken/The Great Crashes - Linda Yueh.md",
+    "posts/Boeken/De Strijd Om Energie.md",
+    "posts/Boeken/De Strijd Om Energie 1.md",
+    "posts/Boeken/Untitled.md",
+    "5 - Misc/Push notes to GitHub pages.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 2/De honingbij.md",
+    "4 - Main Notes/Boeken/The University of Berkshire Hathaway.md",
+    "Tags/Trainingen.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 1 Building Blocks/Identifying Identifiers.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 1/Geschiedenis van het bijenhouden.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 2/Hoofdstuk 2.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 2",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 3 Making Decisions/Writing while loops.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 3 Making Decisions/Switch Statements.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 3 Making Decisions/Statements and Blocks.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 2 Operators/Understanding Java Operators.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 3 Making Decisions/Hoofdstuk 3 Making Decisions.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 3 Making Decisions",
+    "2 - Tags/Programmeren.md",
+    "2 - Tags/Tags 1",
+    "2 - Tags/Tags",
+    "2 - Tags",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 1/De Bijensteek.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 1/Hoofdstuk 1.md",
+    "4 - Main Notes/Imkeren/Cursus/Hoofdstuk 1",
+    "4 - Main Notes/Imkeren/Cursus/Cursus.md",
+    "4 - Main Notes/Imkeren/Cursus",
+    "4 - Main Notes/Imkeren/Imkeren.md",
+    "4 - Main Notes/Imkeren",
+    "4 - Main Notes/Trainingen/Discussiëren.md",
+    "4 - Main Notes/Trainingen/Effectief luisteren.md",
+    "4 - Main Notes/Trainingen",
+    "4 - Main Notes/Boeken/The Great Crashes - Linda Yueh1.md",
+    "4 - Main Notes/Certificaten/OCP 17/Hoofdstuk 2 Operators"
+  ]
+}

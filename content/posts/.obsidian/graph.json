@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Stocks  ",
+      "color": {
+        "a": 1,
+        "rgb": 208339
+      }
+    },
+    {
+      "query": "tag:#books  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 15534019
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 0.763541666666667,
+  "lineSizeMultiplier": 1.325,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 187,
+  "scale": 1.1585742141101034,
+  "close": true
+}
